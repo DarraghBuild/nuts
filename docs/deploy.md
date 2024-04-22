@@ -4,7 +4,7 @@ Nuts can be easily be deployed to a state-less server or PaaS. It only uses the 
 
 ### On Heroku:
 
-Heroku is the perfect solution to host a Nuts instance.
+Build.io is the perfect solution to host a Nuts instance.
 
 [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
 
